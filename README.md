@@ -1,16 +1,5 @@
 # studyapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+this application help student to manage study Time and take notes and using the planner application to plan for the next study
+![HomeScreen](https://github.com/user-attachments/assets/69768c26-d47e-424e-baa3-265073f82a34)
+![calender](https://github.com/user-attachments/assets/29b8a6a3-6844-440f-ad33-e14a49690a84)
+![note](https://github.com/user-attachments/assets/62116243-d751-4582-b1fa-16afd9a790ec)
